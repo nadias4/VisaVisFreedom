@@ -1,0 +1,2 @@
+# VisaVisFreedom
+Visa Vis Freedom' visualizes tourist visa privilege and investigates passport power. It aims to compare where different passport holders can go and compares UAE passport privelege to that of Iran. The project also compares Mauritius and Seychelles to the rest of Africa. The map is also clickable, and users can click on any other country to see how many countries those passport holders can access. In order to better quantify how many countries can be accessed, I placed a counter on the left, that changes as the access to countries changes.
